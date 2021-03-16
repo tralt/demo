@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story" skipped="0" tests="1" time="51.29" timestamp="2021-03-16 11:54:28"><testcase classname="demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story" name="Buyer checking their cart after adding an item into cart"><failure message="&#10;Expected: &quot;sku1_only_express_item&quot;&#10;     but: was &quot;sku1_fun09&quot;" type="java.lang.AssertionError">
+Expected: "sku1_only_express_item"
+     but: was "sku1_fun09"</failure><system-err>
+Expected: "sku1_only_express_item"
+     but: was "sku1_fun09"
+demo@1.0-SNAPSHOT/demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart(Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story.java:63)
+</system-err></testcase></testsuite>
