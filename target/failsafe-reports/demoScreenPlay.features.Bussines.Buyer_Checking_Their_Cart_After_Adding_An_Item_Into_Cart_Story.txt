@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 55.222 s <<< FAILURE! - in demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story
+demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart  Time elapsed: 51.337 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: "sku1_only_express_item"
+     but: was "sku1_fun09"
+	at demo@1.0-SNAPSHOT/demoScreenPlay.features.Bussines.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story.Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart(Buyer_Checking_Their_Cart_After_Adding_An_Item_Into_Cart_Story.java:63)
+
